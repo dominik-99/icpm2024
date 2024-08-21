@@ -1,2 +1,3 @@
 # icpm2024
-Final meta-dataset containing all 422 entries.
+For final meta-dataset containing all 422 entries, see 'meta-dataset.csv'
+For Appendix, see 'Appendix.pdf'
