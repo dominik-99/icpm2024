@@ -1,4 +1,6 @@
 # icpm2024
-For final meta-dataset containing all 422 entries, see 'meta-dataset.csv'.
+This repository contains the supplementary materials for the paper *Leveraging Process Data from ERP Systems for Sustainability Analyses* by Dominik Schäfer, Finn Klessascheck, Timotheus Kampik, and Luise Pufahl.
 
-For Appendix, see 'Appendix.pdf'.
+The final meta-dataset containing all 422 entries is found in the file 'meta-dataset.csv'.
+
+The Appendix is found in the file 'Appendix.pdf'.
